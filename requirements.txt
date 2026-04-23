@@ -1,0 +1,4 @@
+# Moneybot Main Branch
+# This branch contains only project documentation
+# For actual components, switch to their respective branches:
+# - git checkout reddit_video_downloader
